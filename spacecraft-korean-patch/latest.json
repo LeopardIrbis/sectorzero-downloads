@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://github.com/LeopardIrbis/sectorzero-downloads/releases/latest",
+  "notes": "업데이트 체크 기능 추가, ::name::/::count:: 같은 런타임 변수 번역 오류 복원, 한글 placeholder QA 검증 추가",
+  "sha256": "489E4654657E4B193F121CB54B9C7FFD4B2BFC74C39ED38CFEB0671D6C915EBA"
+}
